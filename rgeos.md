@@ -6,6 +6,6 @@ Interface to Geometry Engine - Open Source ('GEOS') using the C 'API' for topolo
 
 - CRAN: (Until October 2023) https://cran.r-project.org/package=rgeos
 
-- maintenance status: to be archived October 2023. 0.6-3 submitted to CRAN 2023-05-24, moving and sharpening on load startup messages to October 2023.
+- maintenance status: to be archived October 2023. 0.6-3 published on CRAN 2023-05-24, moving and sharpening on load startup messages to October 2023.
 
 - documentation status: Was ASDAR, http://rgeos.r-forge.r-project.org/
