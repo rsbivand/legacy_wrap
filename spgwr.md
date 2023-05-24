@@ -14,4 +14,6 @@ Could be deprecated pointing to `GWmodel`, 4 reverse imports. `gwer` will fail w
 
 > Please consider how you would like to handle the archiving of spgwr, which you use in your packages. spgwr suggests retiring r-spatial packages maptools and rgdal, and while your packages would (mostly, gwer does not and I have attempted to warn the maintainer) survive the archiving of maptools, rgdal and rgeos in October 2023, I am not motivated to maintain spgwr further. I am open to handing over to another maintainer, or to archiving the package. I'm interested in hearing your reactions.
 
+`pkgapi` 2023-05-24 shows no use of code by reverse import packages, so most likely only used in documentation.
+
 - documentation status: http://rspatial.r-forge.r-project.org/spgwr/, vignette taken from ASDAR 1ed.
