@@ -2,6 +2,18 @@
 
 Functions for computing geographically weighted regressions are provided, based on work by Chris Brunsdon, Martin Charlton and Stewart Fotheringham.
 
+### Update 2023-06-15
+
+- 0.6-36 published on CRAN
+
+- repository https://github.com/rsbivand/spgwr
+
+- documentation https://rsbivand.github.io/spgwr/
+
+- prospective new maintainer contacted
+
+### Initial
+
 - repository: https://r-forge.r-project.org/projects/rspatial/
 
 - CRAN: https://cran.r-project.org/package=spgwr
