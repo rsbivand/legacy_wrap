@@ -1,5 +1,9 @@
 # Status log
 
+## Update 2023-06-15
+
+- `spgwr` moved to github
+
 ## `pkgapi` 2023-05-24
 
 - analysis for `spgwr` shows no use in reverse dependency code, for `rgrass7` shows use that can be migrated to `rgrass`
