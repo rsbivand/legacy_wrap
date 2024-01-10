@@ -6,6 +6,6 @@ Deprecated interpreted interface between 'GRASS' geographical information system
 
 - CRAN: https://cran.r-project.org/package=rgrass7
 
-- maintenance status: Will be archived in October 2023. Maintainers of `openSTARS` https://github.com/MiKatt/openSTARS/issues/35 and `rdwplus` contacted after `pkgapi` analysis 2023-05-24.
+- maintenance status: was archived 16 October 2023. Maintainers of `openSTARS` https://github.com/MiKatt/openSTARS/issues/35 and `rdwplus` contacted after `pkgapi` analysis 2023-05-24.
 
 - documentation status: https://rsbivand.github.io/rgrass/

@@ -1,5 +1,9 @@
 # Status log
 
+## Update 2023-10-16
+
+Retiring packages archived
+
 ## Update 2023-06-15
 
 - `spgwr` moved to github
